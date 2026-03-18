@@ -23,5 +23,4 @@ A modern developer portfolio built with **Next.js (App Router)** and custom inte
 - CSS Flexbox
 
 ---
-
 ## 📂 Project Structure
